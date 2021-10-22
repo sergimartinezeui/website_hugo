@@ -6,7 +6,7 @@ title: Sergi Martínez
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Student in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,8 +71,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate at the Social and Political Sciences Department of the European University Institute in Florence (Italy). Professor Elias Dinas is my main supervisor, with professor Miriam Golden as the second co-supervisor. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a visiting researcher at the Wilf Department of Politics at New York University (fall 2021).
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research interests span the short and long-term effects of political violence and conflict on identities and political behavior. I also working on the legacy of authoritarian regimes and the norms attached to democratic transitions using quantitative, quasi-causal designs. More detailed information and links to these working projects are provided at the Research section.
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
