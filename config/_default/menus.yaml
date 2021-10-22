@@ -11,10 +11,10 @@ main:
     url: '#research'
     weight: 20
   - name: Data
-    url: '#data'
+    url: '#projects'
     weight: 30
   - name: CV
-   url: '#cv'
+   url: '#talks'
     weight: 40
   #- name: Publications
    # url: '#featured'
