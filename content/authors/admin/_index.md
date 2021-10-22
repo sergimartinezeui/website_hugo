@@ -45,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'sergi.martinez@eui.eu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AntoineZerbini
+  link: https://twitter.com/sergisme
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.es/citations?hl=en&user=V5c0kqoAAAAJ
