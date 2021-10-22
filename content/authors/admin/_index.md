@@ -78,5 +78,3 @@ From September to December 2021, I am visiting the [NYU Wilf Family Department o
 My research interests span the short and long-term effects of political violence and conflict on identities and political behavior. I also work on the legacy of authoritarian regimes and the norms attached to democratic transitions using quantitative, quasi-causal designs.
 
 Thanks for visiting my website!
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
