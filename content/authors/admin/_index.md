@@ -71,10 +71,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. researcher at the Social and Political Sciences Department of the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy.
-
-From September to December 2021, I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
-
+I am a Ph.D. researcher at the Social and Political Sciences Department of the 
 My research interests span the short and long-term effects of political violence and conflict on identities and political behavior. I also work on the legacy of authoritarian regimes and the norms attached to democratic transitions using quantitative, quasi-causal designs.
 
 Thanks for visiting my website!
