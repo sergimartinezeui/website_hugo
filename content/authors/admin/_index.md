@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Antoine Zerbini
+title: Sergi Martínez
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,32 +10,31 @@ role: PhD student in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: London School of Economics and Political Science
-  url: https://www.lse.ac.uk/government
+- name: European University Institute
+  url: https://www.eui.eu/en/academic-units/political-and-social-sciences
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Formal Theory, Political Economy and Causal
-  Inference.
+bio: My research interests include the legacy of conflict and authoritarian regimes.
 
 # Interests to show in About widget
 interests:
-  - Formal Theory
-  - Political Economy
+  - Comparative Politics
+  - Political Behavior
+  - Political Violence
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Political Science
-    institution: London School of Economics and Political Science
-    url: https://www.lse.ac.uk/government
-    year: 2019-2024
-  - course: MSc in Political Science and Political Economy
-    institution: London School of Economics and Political Science
-    link: https://www.lse.ac.uk/government
-    year: 2018
-  - course: BSc in Economics and Statistics
-    institution: University College London 
+    institution: European University Institute
+    url: https://www.eui.eu/en/academic-units/political-and-social-sciences
+    year: 2018-2022
+  - course: MSc Applied Economics
+    institution: Universitat Autònoma de Barcelona
     year: 2017
+  - course: Mres in Political Science
+    institution: Universitat Pompeu Fabra 
+    year: 2016
     
     
 
@@ -56,9 +55,7 @@ social:
 #- icon: github
   #icon_pack: fab
   #link: https://github.com/gcushen
-#- icon: linkedin
-  #icon_pack: fab
-  #link: https://www.linkedin.com/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -80,5 +77,4 @@ More specifically, using models of Political Agency and Lobbying, I consider how
 
 From September 2021 to June 2022 I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
 
-{{< icon name="download" pack="fas" >}} Download my [CV](https://www.dropbox.com/s/g064s1ldubc2zqa/CV_Academia.pdf?dl=0) 
 
