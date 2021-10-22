@@ -49,13 +49,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AntoineZerbini
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #icon_pack: fas
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-  #icon_pack: fab
-  #link: https://github.com/gcushen
-
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.es/citations?hl=en&user=V5c0kqoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sergimartinezeui
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,10 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a 3rd-year PhD student in Political Science at the [London School of Economics and Political Science](https://www.lse.ac.uk/government). I use formal theory to study Political Economy. 
+I am a PhD student at the Social and Political Sciences Department of the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy. 
 
-More specifically, using models of Political Agency and Lobbying, I consider how transparency regulations and voter’s rationality influence the behaviour of politicians and special interest groups.
+From September to December 2021 I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
 
-From September 2021 to June 2022 I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
+My research interests span the short and long-term effects of political violence and conflict on identities and political behavior. I also work on the legacy of authoritarian regimes and the norms attached to democratic transitions using observational, archival and survey data in quasi-causal designs.
 
-
+Thanks for visiting my website!
