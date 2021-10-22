@@ -14,27 +14,27 @@ organizations:
   url: https://www.eui.eu/en/home
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lies on the long-term consequences of authoritarian regimes and conflict on political behavior.
 
 # Interests to show in About widget
 interests:
 - Comparative Politics
-- Causal Inference
+- Political Behavior
 - Political Violence
 - Authoritarian Legacies
 
 # Education to show in About widget
-#education:
+education:
   #courses:
-  #- course: PhD in Artificial Intelligence
-   #institution: Stanford University
-    #year: 2012
-  #- course: MEng in Artificial Intelligence
-    #institution: Massachusetts Institute of Technology
-    #year: 2009
-  #- course: BSc in Artificial Intelligence
-    #institution: Massachusetts Institute of Technology
-    #year: 2008
+  - course: PhD in Social and Political Sciences
+    institution: European University Institute
+    year: 2018-2022 (expected)
+  - course: MSc in Applied Economics
+    institution: Universitat Autònoma de Barcelona
+    year: 2017
+  - course: MRes in Political Science
+    institution: Universitat Pompeu Fabra
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,24 +57,26 @@ social:
   #icon_pack: fab
   #link: https://www.linkedin.com/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+#Link to a PDF of your resume/CV.
+#To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+#and uncomment the lines below.
+#- icon: cv
+#icon_pack: ai
+#link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Ph.D. candidate at the Social and Political Sciences Department of the European University Institute in Florence (Italy). Professor Elias Dinas is my main supervisor, with professor Miriam Golden as the second co-supervisor. 
+I am a Ph.D. researcher at the Social and Political Sciences Department of the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy.
 
-I am a visiting researcher at the Wilf Department of Politics at New York University (fall 2021).
+From September to December 2021, I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
 
-My research interests span the short and long-term effects of political violence and conflict on identities and political behavior. I also working on the legacy of authoritarian regimes and the norms attached to democratic transitions using quantitative, quasi-causal designs. More detailed information and links to these working projects are provided at the Research section.
+My research interests span the short and long-term effects of political violence and conflict on identities and political behavior. I also work on the legacy of authoritarian regimes and the norms attached to democratic transitions using quantitative, quasi-causal designs.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Thanks for visiting my website!
+
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
