@@ -1,6 +1,6 @@
 ---
-title: Fieldwork in Madrid
-summary: Project on public expressions of national identity. Design and organize a multiplatform data collection fieldwork to capture the change in public expressions of national identity in Spain, with Elias dinas and Vicente Valentim. 
+title: Public expressions of national identity
+summary: Design and organize, with Elias dinas and Vicente Valentim, an intense data collection fieldwork to capture variation in public expressions of national identity in Spain, Greece and Portugal.  
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
