@@ -16,10 +16,10 @@ main:
   - name: CV
    url: '#talks'
     weight: 40
-  #- name: Publications
+  # - name: Publications
    # url: '#featured'
     #weight: 50
-  #- name: Contact
+  # - name: Contact
    # url: '#contact'
    # weight: 60
 
