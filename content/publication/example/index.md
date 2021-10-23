@@ -1,5 +1,5 @@
 ---
-title: "The Case for Lobbying Disclosure: Political Agency with Persuasion"
+title: "The negative consequences of sports betting opportunities on human capital formation: Evidence from Spain"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -35,7 +35,7 @@ abstract: _The proliferation of on-site betting shops has received enormous publ
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Gambling, Inequality, Educational performance, Causal inference]
 
 # Display this page in the Featured widget?
 featured: true
