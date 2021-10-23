@@ -6,7 +6,7 @@ title: "The Case for Lobbying Disclosure: Political Agency with Persuasion"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- [Mar Espadafor]{https://marespadafor.github.io/}
+- Mar Espadafor
 
 
 # Author notes (optional)
