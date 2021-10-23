@@ -26,7 +26,7 @@ publishDate: "2021-05-05T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
+publication: *Under review*. Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884079)
 # publication_short: In *ICW*
 
 abstract: _Wartime violence takes several forms. Past research studied the causes and consequences of violence, but no previous work simultaneously assessed the long-term effects of different types of violence on political identities. I argue that while indiscriminate attacks should reinforce ingroup identity, the critical role of civilian agency on selective violence could undermine it. This paper draws upon original data capturing the intensity of selective and indiscriminate violence experienced in each municipality of Biscay during the Spanish civil war (1936-1939) to examine the legacy of this conflict on post-authoritarian voting in the Basque Country (1983-2015). Results suggest that fascist indiscriminate attacks enhanced support for Basque nationalism in post-authoritarian elections, while selective violence offset the popularity of Basque parties. Moreover, individual-level evidence suggests that airstrikes enhanced the intergenerational transmission of political attitudes. War can boost national identities, but it can also erode them. It depends on the type of violence._
