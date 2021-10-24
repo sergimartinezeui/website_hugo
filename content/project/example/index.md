@@ -1,8 +1,11 @@
 ---
 title: 
-summary: Design and organize, with Elias dinas and Vicente Valentim, an intense data collection fieldwork to capture variation in public expressions of national identity in Spain, Greece and Portugal.  
+summary: I am a political scientist from Portugal. My main interests are on the fields of political behavior and political culture, with a geographical focus on Europe. I am currently a Postdoctoral Prize Research Fellow in Politics at Nuffield College, University of Oxford.
+
+The bulk of my research focuses on the creation and erosion of social norms against behavior associated with authoritarianism. My work explores how democracies create a political culture that deems authoritarianism socially unacceptable, and how such culture can change. I am very eager to incorporate insights from social psychology and behavioral economics, as well as novel measures and data sources, into my work.
+
 tags:
-- Deep Learning
+
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
