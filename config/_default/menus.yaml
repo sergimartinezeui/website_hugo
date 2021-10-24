@@ -7,11 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: About me
+    url: '#projects'
+    weight: 20
   - name: Research
     url: '#featured'
-    weight: 20
-  - name: Projects
-    url: '#projects'
     weight: 30
   # - name: Publications
     # url: '#featured'
