@@ -27,7 +27,6 @@ title: "Peer-reviewer publications"
 # publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *PLOS ONE*
 # publication_short: In *ICW*
 
 abstract: Espadafor, Mar, and **Sergi Martínez**, 2021. The negative consequences of sports betting opportunities on human capital formation: Evidence from Spain. [PLOS One](https://doi.org/10.1371/journal.pone.0258857). 
