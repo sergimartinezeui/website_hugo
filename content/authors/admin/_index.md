@@ -14,7 +14,7 @@ organizations:
   url: https://www.eui.eu/en/academic-units/political-and-social-sciences
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the legacy of conflict and authoritarian regimes.
+bio: PhD student in Political Science. Interested in the legacy of conflict and authoritarian regimes.
 
 # Interests to show in About widget
 interests:
@@ -23,18 +23,18 @@ interests:
   - Political Violence
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Political Science
-    institution: European University Institute
-    url: https://www.eui.eu/en/academic-units/political-and-social-sciences
-    year: 2018-2022
-  - course: MSc Applied Economics
-    institution: Universitat Autònoma de Barcelona
-    year: 2017
-  - course: MRes in Political Science
-    institution: Universitat Pompeu Fabra 
-    year: 2016
+# education:
+  # courses:
+  # - course: PhD in Political Science
+    # institution: European University Institute
+    # url: https://www.eui.eu/en/academic-units/political-and-social-sciences
+    # year: 2018-2022
+  # - course: MSc Applied Economics
+    # institution: Universitat Autònoma de Barcelona
+    # year: 2017
+  # - course: MRes in Political Science
+    # institution: Universitat Pompeu Fabra 
+    # year: 2016
     
     
 
@@ -45,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'sergi.martinez@eui.eu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sergisme
+  link: 'mailto:sergi.martinez@eui.eu'
+# - icon: twitter
+  # icon_pack: fab
+  # link: https://twitter.com/sergisme
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.es/citations?hl=en&user=V5c0kqoAAAAJ
@@ -72,8 +72,8 @@ highlight_name: true
 
 I am a PhD student at the Social and Political Sciences Department of the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy. 
 
-From September to December 2021 I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
+From September to December 2021, I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
 
-My research interests span the short and long-term effects of political violence and conflict on identities and political behavior. I also work on the legacy of authoritarian regimes and the norms attached to democratic transitions using observational, archival and survey data in quasi-causal designs.
+I study how authoritarian institutions and conflict determine identities and political behaviors. You may find more detail about my interest in the section [About me](https://sergi-martinez.com/#projects) and the section [Research](https://sergi-martinez.com/#featured) details my work. 
 
 Thanks for visiting my website!
