@@ -13,11 +13,11 @@ title: "Work in progress"
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-10-19T00:00:00Z"
+date: "2021-10-18T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-19T00:00:00Z"
+publishDate: "2021-10-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ publishDate: "2021-10-19T00:00:00Z"
 # publication: Currently *Under review*
 # publication_short: In *ICW*
 
-abstract: Sergi Martínez, Authoritarian selective repression on democratic values. <br> <br> Gándara-Guerra, Nerea, **Sergi Martínez**, and Ana Ruipérez Núñez. De-Commemoration Policies on Public Opinion Formation.
+abstract: Gándara-Guerra, Nerea, **Sergi Martínez**, and Ana Ruipérez Núñez. De-Commemoration Policies on Public Opinion Formation.<br> <br> **Martínez, Sergi**, Authoritarian selective repression on democratic values. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
