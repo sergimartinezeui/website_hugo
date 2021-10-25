@@ -1,11 +1,11 @@
 ---
-title: "Type of violence and ingroup identity: Evidence from the Spanish civil war"
+title: "Working papers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
+# authors:
+# - admin
 
 
 # Author notes (optional)
@@ -13,28 +13,28 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-05-05T00:00:00Z"
-doi: ""
+date: "2021-10-19T00:00:00Z"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-05T00:00:00Z"
+publishDate: "2021-10-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Currently *Under review*
+# publication: Currently *Under review*
 # publication_short: In *ICW*
 
-abstract: _Wartime violence takes several forms. Past research studied the causes and consequences of violence, but no previous work simultaneously assessed the long-term effects of different types of violence on political identities. I argue that while indiscriminate attacks should reinforce ingroup identity, the critical role of civilian agency on selective violence could undermine it. This paper draws upon original data capturing the intensity of selective and indiscriminate violence experienced in each municipality of Biscay during the Spanish civil war (1936-1939) to examine the legacy of this conflict on post-authoritarian voting in the Basque Country (1983-2015). Results suggest that fascist indiscriminate attacks enhanced support for Basque nationalism in post-authoritarian elections, while selective violence offset the popularity of Basque parties. Moreover, individual-level evidence suggests that airstrikes enhanced the intergenerational transmission of political attitudes. War can boost national identities, but it can also erode them. It depends on the type of violence._
+abstract: Dinas, Elias, **Sergi Martínez**, and Vicente Valentim. [The Normalization of Stigmatized Political Symbols](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516831). *Revise and Resubmit*. <\n><\n> **Martínez, Sergi**, Vicente Valentim, and Elias Dinas. Symbolic Conflict Resolution and Ingroup Favoritism. *Revise and Resubmit*. <\n><\n> **Sergi Martínez**. Type of Violence and Ingroup Identity Evidence from the Spanish Civil War. *Under Review*
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conflict, Type of violence, Identities, Spain, Legacy]
+# tags: [Conflict, Type of violence, Identities, Spain, Legacy]
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +44,7 @@ featured: true
 # - name: Available at SSRN
 # url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884079
 
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884079'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
