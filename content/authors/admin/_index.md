@@ -17,10 +17,10 @@ organizations:
 bio: PhD student in Political Science. Interested in the legacy of conflict and authoritarian regimes.
 
 # Interests to show in About widget
-interests:
-  - Comparative Politics
-  - Political Behavior
-  - Political Violence
+# interests:
+  # - Comparative Politics
+  # - Political Behavior
+  # - Political Violence
 
 # Education to show in About widget
 # education:
