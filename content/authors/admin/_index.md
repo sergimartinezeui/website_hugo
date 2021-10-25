@@ -32,7 +32,7 @@ education:
   - course: MSc Applied Economics
     institution: Universitat Autònoma de Barcelona
     year: 2017
-  - course: Mres in Political Science
+  - course: MRes in Political Science
     institution: Universitat Pompeu Fabra 
     year: 2016
     
