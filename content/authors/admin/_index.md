@@ -59,6 +59,6 @@ I am a PhD student at the Social and Political Sciences Department of the [Euro
 
 From September to December 2021, I am visiting the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html).
 
-I study how authoritarian institutions and conflict determine identities and political behaviors. You may find more detail about my interest in the section [About me](https://sergi-martinez.com/#projects) and the section [Research](https://sergi-martinez.com/#featured) details my work. 
+I study the legacy of conflict and authoritarian regimes on identities and political behavior. You may find more detail about my interests in the section [About me](https://sergi-martinez.com/#projects), and the section [Research](https://sergi-martinez.com/#featured) details my work. 
 
 Thanks for visiting my website!
