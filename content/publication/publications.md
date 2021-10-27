@@ -29,7 +29,7 @@ publishDate: "2021-10-21T00:00:00Z"
 # Publication name and optional abbreviated publication name.
 # publication_short: In *ICW*
 
-abstract: Espadafor, Mar, and Sergi Martínez, 2021. [The negative consequences of sports betting opportunities on human capital formation. Evidence from Spain](https://doi.org/10.1371/journal.pone.0258857). *PLoS ONE 16(10): e0258857*.
+abstract: Espadafor, Mar, and Sergi Martínez, 2021. [The negative consequences of sports betting opportunities on human capital formation. Evidence from Spain](https://doi.org/10.1371/journal.pone.0258857). *PLoS ONE 16(10), e0258857*.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
