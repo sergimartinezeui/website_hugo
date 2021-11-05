@@ -29,7 +29,7 @@ publishDate: "2021-10-18T00:00:00Z"
 # publication: Currently *Under review*
 # publication_short: In *ICW*
 
-abstract: Gándara-Guerra, Nerea, **Sergi Martínez**, and Ana Ruipérez Núñez. De-Commemoration Policies on Public Opinion Formation.<br> <br> **Martínez, Sergi**. Authoritarian selective repression on democratic values. 
+abstract: Gándara-Guerra, Nerea, **Sergi Martínez**, and Ana Ruipérez Núñez. De-Commemoration Policies on Public Opinion Formation.<br> <br> **Martínez, Sergi**. Authoritarian indoctrination through selective repression. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
