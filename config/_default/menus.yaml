@@ -27,5 +27,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: https://www.dropbox.com/s/laturdxzdtqn4qh/cv_2021.pdf?dl=0
+    url: https://www.dropbox.com/s/0aungo7tsnqi0r5/cv.pdf?dl=0
     weight: 40
