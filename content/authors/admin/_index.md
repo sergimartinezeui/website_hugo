@@ -48,20 +48,7 @@ email: ""
 highlight_name: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<font color="white"> . </font>
 
 I am a PhD Candidate at the Social and Political Sciences Department of the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy. I was a visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) during the fall 2021 semester.
 
