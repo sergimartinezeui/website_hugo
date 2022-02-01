@@ -6,7 +6,7 @@ title: Sergi Martínez
 superuser: false
 
 # Role/position/tagline
-role: PhD student in Political Science
+role: PhD Candidate in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
