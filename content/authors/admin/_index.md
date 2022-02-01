@@ -55,6 +55,14 @@ highlight_name: true
 
 
 
+
+
+
+
+
+
+
+
 I am a PhD Candidate at the Social and Political Sciences Department of the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy. I was a visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) during the fall 2021 semester.
 
 I study the legacy of conflict and authoritarian regimes on identities and political behavior. You will find more detail about my interests in the section [About me](https://sergi-martinez.com/#projects), and the section [Research](https://sergi-martinez.com/#featured) details my work. 
