@@ -29,7 +29,7 @@ publishDate: "2022-02-01T00:00:00Z"
 # Publication name and optional abbreviated publication name.
 # publication_short: In *ICW*
 
-abstract: Espadafor, Mar, and Sergi Martínez, 2021. [The negative consequences of sports betting opportunities on human capital formation. Evidence from Spain](https://doi.org/10.1371/journal.pone.0258857). PLoS ONE 16(10), e0258857.
+abstract: Dinas, Elias, Sergi Martínez, and Vicente Valentim. [Social Norm Change, Political Symbols, and Expression of Stigmatized Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516831). Conditionally accepted, The Journal of Politics. <br> <br> Espadafor, Mar, and Sergi Martínez, 2021. [The negative consequences of sports betting opportunities on human capital formation. Evidence from Spain](https://doi.org/10.1371/journal.pone.0258857). PLoS ONE 16(10), e0258857.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
