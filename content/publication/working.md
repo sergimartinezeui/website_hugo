@@ -28,9 +28,8 @@ publishDate: "2022-01-31T00:00:00Z"
 # Publication name and optional abbreviated publication name.
 # publication: Currently *Under review*
 # publication_short: In *ICW*
-# Dinas, Elias, **Sergi Martínez**, and Vicente Valentim. [The normalization of stigmatized political symbols](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516831). *Revise and Resubmit*
 
-abstract: **Martínez, Sergi**, Vicente Valentim, and Elias Dinas. Symbolic conflict resolution and ingroup favoritism. *Revise and Resubmit*. <br> <br> **Martínez, Sergi**. [Type of violence and ingroup identity, evidence from the Spanish civil war](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884079). *Revise and Resubmit*.
+abstract: Martínez, Sergi, Vicente Valentim, and Elias Dinas. Symbolic conflict resolution and ingroup favoritism. *Revise and Resubmit*. <br> <br> Martínez, Sergi. [Type of violence and ingroup identity, evidence from the Spanish civil war](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884079). *Revise and Resubmit*.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
