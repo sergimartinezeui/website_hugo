@@ -53,8 +53,8 @@ highlight_name: true
 
 I am a Post-Doctoral Research Associate at  at [Princeton University](https://politics.princeton.edu/)'s Mamdouha S. Bobst Center for Peace and Justice. I hold a PhD in Social and Political Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy. I was a visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) during the fall 2021 semester.
 
-My research interest lies in the field of comparative politics, and I am currently writing on the legacy of conflict and authoritarian regimes on identities and political behavior. 
+My research interest lies in the field of comparative politics, and I am currently writing on the legacy of conflict and authoritarian regimes on identities and behaviors. 
 
-In this website, you can find more information [About me](https://sergi-martinez.com/#projects) and my [Research](https://sergi-martinez.com/#featured), part of which has been published or recently accepted for publication at .
+In this website, you can find more information [About me](https://sergi-martinez.com/#projects) and my [Research](https://sergi-martinez.com/#featured), part of which has been published or recently accepted for publication at *The Journal of Politics, Journal of Conflict Resolution and PLoS one*.
 
 Thanks for your visit!
