@@ -6,15 +6,16 @@ title: Sergi Martínez
 superuser: false
 
 # Role/position/tagline
-role: PhD Candidate in Political Science
+role: Post-Doctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: European University Institute
-  url: https://www.eui.eu/en/academic-units/political-and-social-sciences
+- name: Mamdouha S. Bobst Center<br>for Peace and Justice
+  # url: https://www.eui.eu/en/academic-units/political-and-social-sciences
+  url: https://bobst.princeton.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Political Science. Interested in the legacy of conflict and authoritarian regimes.
+bio: Post-Doctoral Research Associate in Political Science. Interested in the legacy of conflict and authoritarian regimes.
  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -23,7 +24,7 @@ bio: PhD student in Political Science. Interested in the legacy of conflict and 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sergi.martinez@eui.eu'
+  link: 'mailto:sm2596@princeton.edu'
 # - icon: twitter
   # icon_pack: fab
   # link: https://twitter.com/sergisme
@@ -50,10 +51,10 @@ highlight_name: true
 
 <font color="white"> . </font>
 
-I am a PhD Candidate at the Social and Political Sciences Department of the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy. I was a visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) during the fall 2021 semester.
+I am a Post-Doctoral Research Associate at  at [Princeton University](https://politics.princeton.edu/)'s Mamdouha S. Bobst Center for Peace and Justice. I hold a PhD in Social and Political Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence, Italy. I was a visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) during the fall 2021 semester.
 
 My research interest lies in the field of comparative politics, and I am currently writing on the legacy of conflict and authoritarian regimes on identities and political behavior. 
 
-In this website, you can find more information [About me](https://sergi-martinez.com/#projects) and my [Research](https://sergi-martinez.com/#featured).
+In this website, you can find more information [About me](https://sergi-martinez.com/#projects) and my [Research](https://sergi-martinez.com/#featured), part of which has been published or recently accepted for publication at .
 
 Thanks for your visit!
