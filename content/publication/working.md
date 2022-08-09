@@ -29,8 +29,9 @@ publishDate: "2022-01-31T00:00:00Z"
 # publication: Currently *Under review*
 # publication_short: In *ICW*
 
-abstract: Martínez, Sergi, Vicente Valentim, and Elias Dinas. Symbolic conflict resolution and ingroup favoritism. *Revise and Resubmit*. <br> <br> Martínez, Sergi. [Type of violence and ingroup identity, evidence from the Spanish civil war](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884079). *Revise and Resubmit*.
+abstract: Martínez, Sergi. [Type of violence and ingroup identity, evidence from the Spanish civil war](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884079). *Revise and Resubmit*.
 
+# Martínez, Sergi, Vicente Valentim, and Elias Dinas. Symbolic conflict resolution and ingroup favoritism. *Revise and Resubmit*. 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
