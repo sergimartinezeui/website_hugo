@@ -10,7 +10,7 @@ role: Post-Doctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Mamdouha S. Bobst Center <br />Princeton University 
+- name: Mamdouha S. Bobst Center \\ Princeton University 
   # Bobst Center - Princeton University
   # url: https://www.eui.eu/en/academic-units/political-and-social-sciences
   url: https://bobst.princeton.edu/ 
