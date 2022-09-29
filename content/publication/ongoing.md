@@ -29,7 +29,7 @@ publishDate: "2022-01-30T00:00:00Z"
 # publication: Currently *Under review*
 # publication_short: In *ICW*
 
-abstract: Gándara-Guerra, Nerea, **Sergi Martínez**, and Ana Ruipérez Núñez. De-Commemoration Policies on Public Opinion Formation. Registered pre-analysis plan at [egap.org](https://osf.io/9tnr2). <br> <br> Lemoli, Giacomo, and Sergi Martínez**. Elites, Identities, and Conflict in Diverse Societies. <br> Project funded by the Identities and Ideologies project of New York University. 
+abstract: Gándara-Guerra, Nerea, **Sergi Martínez**, and Ana Ruipérez Núñez. De-Commemoration Policies on Public Opinion Formation. Registered pre-analysis plan at [egap.org](https://osf.io/9tnr2). <br> <br> Lemoli, Giacomo, and Sergi Martínez. Elites, Identities, and Conflict in Diverse Societies. <br> Project funded by the Identities and Ideologies project of New York University. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
