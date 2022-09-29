@@ -15,7 +15,7 @@ organizations:
   url: https://bobst.princeton.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-Doctoral Research Associate in Political Science. Interested in the legacy of conflict and authoritarian regimes.
+bio: Postdoc in Political Science at Princeton University. Interested in the legacy of conflict and authoritarian regimes.
  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
