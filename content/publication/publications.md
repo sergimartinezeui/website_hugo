@@ -29,7 +29,7 @@ publishDate: "2022-02-01T00:00:00Z"
 # Publication name and optional abbreviated publication name.
 # publication_short: In *ICW*
 
-abstract: Dinas, Elias, Sergi Martínez, and Vicente Valentim, 2022. [Social Norm Change, Political Symbols, and Expression of Stigmatized Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516831). <br> Conditionally accepted, The Journal of Politics. <br> <br> Martínez, Sergi, Elias Dinas and Vicente Valentim, 2022. Symbolic Conflict Resolution and Ingroup Favoritism. <br> Forthcoming at the Journal of Conflict Resolution. <br> <br> Espadafor, Mar, and Sergi Martínez, 2021. [The negative consequences of sports betting opportunities on human capital formation. Evidence from Spain](https://doi.org/10.1371/journal.pone.0258857). <br> PLoS ONE 16(10), e0258857.
+abstract: Dinas, Elias, Sergi Martínez, and Vicente Valentim, 2022. [Social Norm Change, Political Symbols, and Expression of Stigmatized Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516831). Conditionally accepted, The Journal of Politics. <br> <br> Martínez, Sergi, Elias Dinas and Vicente Valentim, 2022. Symbolic Conflict Resolution and Ingroup Favoritism. Forthcoming at the Journal of Conflict Resolution. <br> <br> Espadafor, Mar, and Sergi Martínez, 2021. [The negative consequences of sports betting opportunities on human capital formation. Evidence from Spain](https://doi.org/10.1371/journal.pone.0258857). PLoS ONE 16(10), e0258857.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
