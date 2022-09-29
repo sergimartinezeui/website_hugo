@@ -6,7 +6,7 @@ title: Sergi Martínez
 superuser: false
 
 # Role/position/tagline
-role: Post-Doctoral Research Associate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
