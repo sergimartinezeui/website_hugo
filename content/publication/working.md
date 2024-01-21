@@ -13,7 +13,7 @@ title: "Working papers"
 # - "Equal contribution"
 # - "Equal contribution"
 
-# date: "2022-01-31T00:00:00Z"
+# date: "2023-12-31T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
