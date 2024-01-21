@@ -17,7 +17,7 @@ title: "Work in progress"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-30T00:00:00Z"
+publishDate: "2023-12-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ publishDate: "2022-01-30T00:00:00Z"
 # publication: Currently *Under review*
 # publication_short: In *ICW*
 
-abstract: Martínez, Sergi, and Giacomo Lemoli. Backlash against the U.S? Evidence from WWII in Italy. <br> <br> Lemoli, Giacomo, and Sergi Martínez. Elites, Identities, and Conflict in Diverse Societies. <br> Project funded by the Identities and Ideologies project of New York University. 
+abstract: Martínez, Sergi, and Giacomo Lemoli. Backlash against the U.S? Evidence from WWII in Italy. <br> <br> Lemoli, Giacomo, and Sergi Martínez. Elites, Identities, and Conflict in Diverse Societies. <br> Project funded by the Identities and Ideologies project of New York University, the Mamdouha Bobst Center for Peace and Justice, and BBVA. <br> <br> Balcells, Laia, and Sergi Martínez, and Vicente Valentim, and Ethan vanderWilden. Stigmatizing the radical right. <br> <br> Barceló, Joan, and Sergi Martínez, and Mauricio Vela Barón. Seats of hope, special peace districts on trust and political engagement in postwar democracies.   
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
