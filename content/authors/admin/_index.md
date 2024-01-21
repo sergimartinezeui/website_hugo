@@ -11,7 +11,7 @@ role: Assistant professor
 # Organizations/Affiliations to show in About widget
 organizations:
 # - name: Bobst Center - Princeton University
-- name: School of Finance, Economics, and Government
+- name: EAFIT University - School of Finance, Economics, and Government
   # url: https://www.eui.eu/en/academic-units/political-and-social-sciences
   url: https://www.eafit.edu.co/ 
 
