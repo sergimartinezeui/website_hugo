@@ -6,16 +6,17 @@ title: Sergi Martínez
 superuser: false
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Bobst Center - Princeton University
+# - name: Bobst Center - Princeton University
+- name: School of Finance, Economics, and Government
   # url: https://www.eui.eu/en/academic-units/political-and-social-sciences
-  url: https://bobst.princeton.edu/ 
+  url: https://www.eafit.edu.co/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoc in Political Science at Princeton University. Interested in the legacy of conflict and authoritarian regimes.
+bio: Assistant professor of political science at EAFIT University. Interested in the legacy of conflict and authoritarian regimes.
  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -24,7 +25,8 @@ bio: Postdoc in Political Science at Princeton University. Interested in the leg
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sm2596@princeton.edu'
+  # link: 'mailto:sm2596@princeton.edu'
+  link: 'mailto:sdmartines@eafit.edu.co'
 # - icon: twitter
   # icon_pack: fab
   # link: https://twitter.com/sergisme
@@ -51,7 +53,7 @@ highlight_name: true
 
 <font color="white"> . </font>
 
-I am a Postdoc at [Princeton University](https://politics.princeton.edu/)'s Mamdouha S. Bobst Center for Peace and Justice. I received my PhD from the European University Institute's [Department of Social and Political Sciences](https://www.eui.eu/en/academic-units/political-and-social-sciences) in June 2022. I was a visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) during the fall 2021 semester.
+I'm an assistant professor at [EAFIT University](https://www.eafit.edu.co/)'s School of Finance, Economics, and Government. Before moving to Medellín, I was a Postdoc at [Princeton University](https://politics.princeton.edu/)'s Mamdouha S. Bobst Center for Peace and Justice. I received my PhD from the European University Institute's [Department of Social and Political Sciences](https://www.eui.eu/en/academic-units/political-and-social-sciences) in June 2022. I was a visiting researcher at the [NYU Wilf Family Department of Politics](https://as.nyu.edu/departments/politics.html) during the fall 2021 semester.
 
 My research interest lies in the fields of comparative politics, HPE, and international relations, and I am currently writing on the legacy of conflict and authoritarian regimes on identities and behaviors. 
 
